@@ -1,0 +1,9 @@
+Customber Name =Bullet
+Buyed Products :
+   Green Plain Shirt	300RS
+     Blue Jeans Pant	999RS
+  black casual Shoes	2300RS
+  Rolex Golden Watch	4000RS
+     GST with 10% is759
+The total is 8358
+8358

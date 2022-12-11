@@ -1,0 +1,5 @@
+Customber Name =Mohamed
+Buyed Products :
+ Yellow formal shoes	1500RS
+     GST with 10% is150The total is 1650
+1650

@@ -1,0 +1,7 @@
+Customber Name =Gowtham
+Buyed Products :
+    Blue Plain Shirt	100RS
+    blue Formal Pant	1500RS
+     GST with 10% is160
+The total is 1760
+1760

@@ -1,0 +1,5 @@
+Customber Name =Hello
+Buyed Products :
+    red Sports Shoes	1800RS
+The total is 1800
+1800

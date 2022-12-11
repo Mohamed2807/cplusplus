@@ -1,0 +1,9 @@
+Customber Name =Parthiban
+Buyed Products :
+  Rolex Golden Watch	4000RS
+    Blue Plain Shirt	100RS
+     Blue Jeans Pant	999RS
+  black casual Shoes	2300RS
+     GST with 10% is739
+The total is 8138
+8138

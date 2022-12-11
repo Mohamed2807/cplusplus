@@ -1,0 +1,9 @@
+Customber Name =Ash
+Buyed Products :
+     Red plain Shirt	100RS
+       Digital watch	1500RS
+          Black Pant	1000RS
+  black casual Shoes	2300RS
+     GST with 10% is490
+The total is 5390
+5390

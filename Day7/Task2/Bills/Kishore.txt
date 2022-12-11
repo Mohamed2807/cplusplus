@@ -1,0 +1,7 @@
+Customber Name =Kishore
+Buyed Products :
+    Blue Plain Shirt	100RS
+Titan Black Chain Watch	6000RS
+     Blue Jeans Pant	999RS
+ Yellow formal shoes	1500RS
+The total is 8599
